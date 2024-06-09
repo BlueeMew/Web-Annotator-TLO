@@ -2,7 +2,7 @@
     "manifest_version":3,
     "name":"Web Annotator",
     "version":"1.0",
-    "description": "IDK YET",
+    "description": "This Chrome extension allows users to highlight selected text on web pages and add notes using context menus, keyboard shortcuts or a toolbar popup. The highlighted text and notes can be saved and restored or exported and saved into a pdf.",
 
     "permissions": [
       "contextMenus",
